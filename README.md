@@ -4,7 +4,7 @@
 3. npm start (check http://localhost:3000/)
 
 ## Test check test coverage
-1. npm run test -- --coverage watchAll=false
+1. npm run test -- --coverage --watchAll=false
 
 ## Location of Test files
 1. Under __test__ folder, unit test files are present.
